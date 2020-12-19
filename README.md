@@ -1,4 +1,6 @@
-## Web Scraper for Downloading and Compressing Harvard Online Lectures
+## Web Scraper for Downloading Harvard Online Lectures
+
+(Need HUID Login for the course used in this example. Adapt script for your own course.)
 
 This is for keeping notes on what I learn and decisions I make in building this project. Later I will turn this into a more conventional README.
 
@@ -25,7 +27,7 @@ Some references:
 - Run:
 
 ```bash
-python -m venv <chooseAName_usually_venv>
+python -m venv venv
 ```
 
 - Do not put anything else in the `venv` directory. Keep all other project files outside of it.
