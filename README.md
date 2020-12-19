@@ -134,7 +134,7 @@ driver.quit()
 - Click on `Lecture 1`
 - Find video `url` in the `HTML`
 - Run `wget -O lecture01.mp4 "<videoURLHere>"` to download in current directory
-- Run video through `ffmpeg` to compress (this will create a second file)
+- Run video through `ffmpeg` to compress (this will create a second file)  ==(TODO)==
 - Delete original 'mp4' file
 - Repeat for each video
 
